@@ -15,11 +15,6 @@
 
 ## Technical Explanations
 
-Purpose: What is this service responsible for?
-Technology Stack: Which language/framework does it use and why?
-Architecture Role: How does it fit into the microservices architecture?
-Inter-Service Communication: How does it interact with other services?
-
 ### Order Service (Node.js)
 
 The Order Service manages customer orders and interacts with RabbitMQ for message queuing. 
